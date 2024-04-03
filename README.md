@@ -16,7 +16,7 @@ Data Science
 
 ## General Info
 
-Descripción del proyecto
+En un mundo donde el acceso a la salud es fundamental para el bienestar de las personas, contar con un sistema de seguro integral se convierte en una necesidad imperativa. En este contexto, el presente análisis se enfoca en explorar y comprender los patrones y tendencias relacionados con los afiliados al Seguro Integral de Salud (SIS) en estado activo en Perú. Con un conjunto de datos detallado que abarca diversas variables demográficas y de afiliación, nos sumergimos en el mundo de la salud pública para extraer información valiosa que pueda contribuir a mejorar la calidad y accesibilidad de los servicios de salud para todos los asegurados. A través de un análisis exhaustivo, buscamos identificar insights clave que puedan informar políticas, decisiones estratégicas y acciones destinadas a fortalecer y optimizar el sistema de salud en beneficio de la comunidad peruana.
 
 <br>
 
@@ -55,9 +55,8 @@ No requiere comandos de instalación
 
 ## Colaboración
 
-- [Colaborar 1](https://github.com/colaborador1)
-- [Colaborar 2](https://github.com/colaborador2)
-- [Colaborar 3](https://github.com/colaborador3)
+- [Erick Estefano Ramos Zapata ](https://github.com/ERICK2500)
+
 
 <br>
 
@@ -66,7 +65,7 @@ No requiere comandos de instalación
 ## FAQs
 
 Fuente usada: Titulo del dataset (kaggle):
-<a href="link de referencia del data cet" target="_blank" rel="noreferrer">https://www.kaggle.com/datasets/meirnizri/covid19-dataset?resource=download</a>
+<a href="link de referencia del data cet" target="_blank" rel="noreferrer">https://www.datosabiertos.gob.pe/group/seguro-integral-de-salud-sis</a>
 
 
 <br>
