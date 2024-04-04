@@ -1,6 +1,7 @@
 # Proyecto_CoderHouse
 Data Science
 # "AFILIADOS AL SEGURO INTEGRAL DE SALUD EN ESTADO ACTIVO"
+<img src="https://trome.com/resizer/yB3pDNQffp2Zh3CPekZ7ELLp_60=/580x330/smart/filters:format(jpeg):quality(90)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/TO6YWWNGCNHETLTVWXC6ZFY7YM.jpg" width="800" height="400"/> 
 
 ---
 
